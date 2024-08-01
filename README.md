@@ -14,7 +14,7 @@
 Hi, I'm Luke.
 This looks repetitive but I'm doing the tutorial, so it's ok.
 
-<details>
+<details open>
 <summary>Currently Learning</summary>
 
 | Rank | Learning |
